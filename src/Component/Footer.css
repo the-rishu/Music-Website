@@ -1,0 +1,43 @@
+.footer{
+    height: 700px;
+    margin-top: -150px;
+    z-index: -2;
+    background-color: #081730; 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ .icons{
+    position: absolute;
+    top: 350px;
+}
+.unlist{
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    padding:10px 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+.iconlist{
+    
+     padding:7px 10px; 
+    margin: 0px 30px;
+    border-radius: 50%; 
+    
+    background-color: white;
+    
+}
+.iconlist>img{
+    width: 30px;
+}
+
+
+.ftext{
+     position: absolute;
+     top: 500px;
+     width: 60%;
+     color: gray;
+    
+} 

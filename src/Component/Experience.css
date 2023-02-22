@@ -1,0 +1,33 @@
+.experience-section{
+    background-color: #020917;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height:500px;
+    padding-top: 250px;
+    margin-top: -10rem;
+    position: relative;
+    z-index: 2;
+    border-radius: 0px 0px 100px 100px;
+}
+.titld{
+    width: 5rem;
+}
+.headline{
+    /* border: solid white 2px; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.featuree{
+    /* border: solid wheat 2px; */
+    display: flex;
+    margin-top: 20px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+ 

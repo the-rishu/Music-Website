@@ -1,0 +1,16 @@
+/* .menu{
+    /* border: solid yellow 2px;
+    margin: 0px; 
+}  */
+ .list{
+    /* border: solid khaki 2px; */
+     margin: 0px; 
+    display: flex;
+    list-style: none;
+    justify-content: space-between; 
+}
+.liStyle{
+    /* border: solid purple 2px; */
+    margin: 0px 20px;
+    cursor: pointer; 
+} 

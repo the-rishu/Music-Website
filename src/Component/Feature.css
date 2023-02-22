@@ -1,0 +1,38 @@
+.feature{
+    /* border: solid darkcyan 2px; */
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: space-between;
+}
+
+.icon{
+    /* border: solid gold 2px; */
+    margin-top: 10px;
+}
+.featuretext{
+    /* border: solid rebeccapurple 2px; */
+    margin: 10px 0px;
+    font-weight: bold;
+    
+}
+img{
+    width:3rem;
+}
+.featuretext1{
+     /* border: solid darkblue 2px;  */
+    margin: 10px 0px;
+    width: 60%;
+    color: gray;
+    text-align: center;
+}
+.featuretext2{
+    /* border: solid green 2px; */
+    margin: 10px 0px;
+    text-decoration: underline;
+    color: purple;
+    cursor: pointer;
+    font-weight: bold;
+   
+} 
